@@ -1,16 +1,18 @@
 # mountain_images
 
-A new Flutter project.
+A Flutter widget for mountains image.
+
+## Features
+Showing Boxing images
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Use this project,add mountain_images as dependency in your pubspec.yaml file
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Minimal example:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+MountainImages()
+```
